@@ -1,0 +1,16 @@
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\obj\Debug\net5.0\amerikanen-i-bastun-E.csprojAssemblyReference.cache
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\obj\Debug\net5.0\amerikanen-i-bastun-E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\obj\Debug\net5.0\amerikanen-i-bastun-E.AssemblyInfoInputs.cache
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\obj\Debug\net5.0\amerikanen-i-bastun-E.AssemblyInfo.cs
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\obj\Debug\net5.0\amerikanen-i-bastun-E.csproj.CoreCompileInputs.cache
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\bin\Debug\net5.0\amerikanen-i-bastun-E.exe
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\bin\Debug\net5.0\amerikanen-i-bastun-E.deps.json
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\bin\Debug\net5.0\amerikanen-i-bastun-E.runtimeconfig.json
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\bin\Debug\net5.0\amerikanen-i-bastun-E.runtimeconfig.dev.json
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\bin\Debug\net5.0\amerikanen-i-bastun-E.dll
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\bin\Debug\net5.0\ref\amerikanen-i-bastun-E.dll
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\bin\Debug\net5.0\amerikanen-i-bastun-E.pdb
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\obj\Debug\net5.0\amerikanen-i-bastun-E.dll
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\obj\Debug\net5.0\ref\amerikanen-i-bastun-E.dll
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\obj\Debug\net5.0\amerikanen-i-bastun-E.pdb
+C:\Users\Scorp\Desktop\ProjectRepository\C#\amerikanen-i-bastun-E\obj\Debug\net5.0\amerikanen-i-bastun-E.genruntimeconfig.cache

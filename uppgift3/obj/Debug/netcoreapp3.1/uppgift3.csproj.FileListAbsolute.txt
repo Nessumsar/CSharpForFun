@@ -1,0 +1,12 @@
+/Users/lukasrasmussen/Desktop/C#/uppgift3/bin/Debug/netcoreapp3.1/uppgift3.deps.json
+/Users/lukasrasmussen/Desktop/C#/uppgift3/bin/Debug/netcoreapp3.1/uppgift3.runtimeconfig.json
+/Users/lukasrasmussen/Desktop/C#/uppgift3/bin/Debug/netcoreapp3.1/uppgift3.runtimeconfig.dev.json
+/Users/lukasrasmussen/Desktop/C#/uppgift3/bin/Debug/netcoreapp3.1/uppgift3.dll
+/Users/lukasrasmussen/Desktop/C#/uppgift3/bin/Debug/netcoreapp3.1/uppgift3.pdb
+/Users/lukasrasmussen/Desktop/C#/uppgift3/obj/Debug/netcoreapp3.1/uppgift3.csprojAssemblyReference.cache
+/Users/lukasrasmussen/Desktop/C#/uppgift3/obj/Debug/netcoreapp3.1/uppgift3.AssemblyInfoInputs.cache
+/Users/lukasrasmussen/Desktop/C#/uppgift3/obj/Debug/netcoreapp3.1/uppgift3.AssemblyInfo.cs
+/Users/lukasrasmussen/Desktop/C#/uppgift3/obj/Debug/netcoreapp3.1/uppgift3.csproj.CoreCompileInputs.cache
+/Users/lukasrasmussen/Desktop/C#/uppgift3/obj/Debug/netcoreapp3.1/uppgift3.dll
+/Users/lukasrasmussen/Desktop/C#/uppgift3/obj/Debug/netcoreapp3.1/uppgift3.pdb
+/Users/lukasrasmussen/Desktop/C#/uppgift3/obj/Debug/netcoreapp3.1/uppgift3.genruntimeconfig.cache

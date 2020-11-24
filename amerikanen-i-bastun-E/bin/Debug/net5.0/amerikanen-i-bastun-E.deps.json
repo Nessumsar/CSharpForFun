@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "amerikanen-i-bastun-E/1.0.0": {
+        "runtime": {
+          "amerikanen-i-bastun-E.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "amerikanen-i-bastun-E/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

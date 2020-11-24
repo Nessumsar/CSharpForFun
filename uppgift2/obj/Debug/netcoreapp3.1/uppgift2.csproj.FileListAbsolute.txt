@@ -1,0 +1,12 @@
+/Users/lukasrasmussen/Desktop/C#/uppgift2/bin/Debug/netcoreapp3.1/uppgift2.deps.json
+/Users/lukasrasmussen/Desktop/C#/uppgift2/bin/Debug/netcoreapp3.1/uppgift2.runtimeconfig.json
+/Users/lukasrasmussen/Desktop/C#/uppgift2/bin/Debug/netcoreapp3.1/uppgift2.runtimeconfig.dev.json
+/Users/lukasrasmussen/Desktop/C#/uppgift2/bin/Debug/netcoreapp3.1/uppgift2.dll
+/Users/lukasrasmussen/Desktop/C#/uppgift2/bin/Debug/netcoreapp3.1/uppgift2.pdb
+/Users/lukasrasmussen/Desktop/C#/uppgift2/obj/Debug/netcoreapp3.1/uppgift2.csprojAssemblyReference.cache
+/Users/lukasrasmussen/Desktop/C#/uppgift2/obj/Debug/netcoreapp3.1/uppgift2.AssemblyInfoInputs.cache
+/Users/lukasrasmussen/Desktop/C#/uppgift2/obj/Debug/netcoreapp3.1/uppgift2.AssemblyInfo.cs
+/Users/lukasrasmussen/Desktop/C#/uppgift2/obj/Debug/netcoreapp3.1/uppgift2.csproj.CoreCompileInputs.cache
+/Users/lukasrasmussen/Desktop/C#/uppgift2/obj/Debug/netcoreapp3.1/uppgift2.dll
+/Users/lukasrasmussen/Desktop/C#/uppgift2/obj/Debug/netcoreapp3.1/uppgift2.pdb
+/Users/lukasrasmussen/Desktop/C#/uppgift2/obj/Debug/netcoreapp3.1/uppgift2.genruntimeconfig.cache
